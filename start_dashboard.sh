@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define paths
-APP_DIR="/home/admin/scripts/raspberry-pi-bme280-weather-station-flask-python"
+APP_DIR="/home/admin/DeLTA_Website/scripts/raspberry-pi-bme280-weather-station-flask-python"
 VENV_PATH="$/venv"
 TMUX_BIN=$(which tmux)
 

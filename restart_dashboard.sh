@@ -5,7 +5,7 @@ tmux kill-server
 sleep 2
 
 echo "=== Starting dashboard ==="
-/home/admin/start_dashboard.sh
+/home/admin/DeLTA_Website/start_dashboard.sh
 
 echo "=== Dashboard restarted! ==="
 
